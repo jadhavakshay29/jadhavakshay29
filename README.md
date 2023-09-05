@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Redux Toolkit and NodeJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-website-aj.netlify.app/](https://personal-portfolio-website-aj.netlify.app/)
 
