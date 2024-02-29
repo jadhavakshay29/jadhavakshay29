@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
+- 💬 Ask me about **Java, JavaScript, ReactJs**
+
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-website-aj.netlify.app/](https://personal-portfolio-website-aj.netlify.app/)
 
 - ⚡ Fun fact **I Love Anime**
